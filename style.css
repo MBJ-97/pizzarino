@@ -59,3 +59,12 @@ button:active {
   padding: 20px;
   border: 10px solid black;
 }
+
+/* form section styles */
+input {
+  display: block;
+}
+
+textarea {
+  display: block;
+}
